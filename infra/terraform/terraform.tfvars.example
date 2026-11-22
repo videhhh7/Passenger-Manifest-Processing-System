@@ -1,0 +1,5 @@
+aws_region = "ap-south-1"
+project_name = "passenger-manifest-demo"
+lambda_zip_path = "../../artifacts/manifest-function.zip"
+ses_from_email = "verified-sender@example.com"
+manifest_recipient_email = "your-test-inbox@example.com"
